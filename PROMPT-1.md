@@ -1,130 +1,74 @@
-Olá! Recebi suas informações do entrevistador.  
-
-Vejo que você escolheu **Cientista de Dados / Machine Learning Engineer** e tem cerca de **2 a 4 horas semanais** para estudar além da faculdade e trabalho. Perfeito!  
-
-Vou montar agora seu plano completo personalizado:  
+Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você...  
 
 ---
 
-## 🧩 VISÃO DO DIA A DIA  
+## 📊 Análise e Sugestão
 
-Como é o trabalho de um(a) Cientista de Dados / ML Engineer:  
-- Coletar e limpar dados de diferentes fontes  
-- Explorar e analisar dados para descobrir padrões  
-- Construir e treinar modelos de machine learning  
-- Validar e otimizar modelos para produção  
-- Comunicar resultados de forma clara para equipes e stakeholders  
+Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
----
+════════════════════════════════════════════════════════════  
+🥇 **1º LUGAR: Cientista de Dados / Machine Learning Engineer** – **18/20**  
+════════════════════════════════════════════════════════════  
 
-## 🧠 MAPA DE SKILLS  
+💡 **Por que combina com você:**  
+Você já tem experiência prática com **Python, GCP e Databricks**, gosta de **resolver problemas** e tem interesse direto em **modelos de ML, agentes e redes neurais**. Essa carreira aproveita sua afinidade com **dados** e conecta com seu objetivo de conseguir o primeiro emprego.  
 
-**CORE SKILLS (essenciais):**  
-- Programação em Python  
-- Estatística e probabilidade  
-- Machine Learning (supervisionado e não supervisionado)  
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Alta demanda de mercado em diversas indústrias  
+- Contato direto com ML, LLMs e predições  
 
-**NICE-TO-HAVE (complementares):**  
-- Visualização de dados (Power BI, Tableau)  
-- SQL avançado  
+**Desafios:**  
+- Ramp-up exige estudo contínuo em estatística e matemática aplicada  
+- Competição alta, exigindo projetos práticos para se destacar  
 
-**FERRAMENTAS E TECNOLOGIAS:**  
-- GCP (BigQuery, Vertex AI)  
-- Databricks  
-- Bibliotecas Python (Pandas, Scikit-learn, TensorFlow, PyTorch)  
+📈 **Mercado:**  
+Muito aquecido, especialmente em empresas que trabalham com **IA, análise de dados e cloud computing**. A demanda varia por região e experiência, mas é uma das áreas mais buscadas globalmente.  
 
 ---
 
-## 📅 ROADMAP DE 90 DIAS  
+════════════════════════════════════════════════════════════  
+🥈 **2º LUGAR: Engenheiro de Dados (Data Engineer)** – **16/20**  
+════════════════════════════════════════════════════════════  
 
-**ADAPTADO PARA: ~2-4 horas/semana**  
+💡 **Por que combina com você:**  
+Seu interesse em **ETL, GCP e Databricks** mostra afinidade com pipelines de dados e infraestrutura. Essa carreira foca em **organizar e preparar dados** para que cientistas de dados e engenheiros de ML possam trabalhar melhor.  
 
-### MÊS 1 - FUNDAMENTOS  
-**SEMANA 1-2:**  
-- Revisar lógica de programação em Python  
-- Introdução a estatística básica (média, variância, distribuições)  
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Forte aproveitamento da sua experiência prévia com cloud e ETL  
+- Mercado em expansão com foco em Big Data e IA  
 
-**SEMANA 3-4:**  
-- SQL básico para manipulação de dados  
-- Introdução ao Pandas e análise exploratória  
+**Desafios:**  
+- Exige conhecimento sólido em arquitetura de dados e ferramentas de integração  
+- Menos foco em modelos de ML, mais em infraestrutura  
 
-### MÊS 2 - PRÁTICA  
-**SEMANA 5-6:**  
-- Machine Learning supervisionado (regressão, classificação)  
-- Treinar modelos simples com Scikit-learn  
-
-**SEMANA 7-8:**  
-- Machine Learning não supervisionado (clustering, PCA)  
-- Introdução a TensorFlow ou PyTorch  
-
-### MÊS 3 - PORTFÓLIO E PREPARAÇÃO  
-**SEMANA 9-10:**  
-- Projeto prático de análise de dados com dataset público  
-- Documentar insights e resultados  
-
-**SEMANA 11-12:**  
-- Criar e publicar portfólio no GitHub  
-- Simular entrevistas técnicas e comportamentais  
+📈 **Mercado:**  
+Muito valorizado em empresas que lidam com grandes volumes de dados. A demanda é alta e crescente, especialmente em setores como finanças, saúde e tecnologia.  
 
 ---
 
-## 🚀 PROJETO DE PORTFÓLIO  
+════════════════════════════════════════════════════════════  
+🥉 **3º LUGAR: Analista de Inteligência Artificial (AI Specialist)** – **15/20**  
+════════════════════════════════════════════════════════════  
 
-**PROJETO:** Previsão de churn de clientes  
+💡 **Por que combina com você:**  
+Seu interesse em **LLMs, agentes e redes neurais** se conecta diretamente com essa carreira, que foca em aplicar IA em soluções práticas. É uma opção mais voltada para **experimentação e aplicação de modelos** em diferentes contextos.  
 
-**O QUE FAZER:**  
-Construir um modelo que analise dados de clientes e preveja quem tem maior chance de cancelar um serviço.  
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Contato direto com tecnologias emergentes de IA  
+- Possibilidade de atuar em projetos inovadores e de ponta  
 
-**ENTREGÁVEIS:**  
-- Notebook com análise exploratória  
-- Modelo treinado e validado  
-- Relatório com visualizações e conclusões  
+**Desafios:**  
+- Ramp-up pode ser mais longo, pois exige conhecimento interdisciplinar  
+- Área ainda em consolidação, com diferentes caminhos possíveis  
 
-**CRITÉRIOS DE ACEITAÇÃO:**  
-- Código organizado e comentado  
-- Modelo com métricas claras (accuracy, recall, precision)  
-- README explicando o projeto  
-
-**DICA:** Use datasets públicos do Kaggle para praticar.  
-
----
-
-## 💬 ROTEIRO DE ENTREVISTAS  
-
-**PERGUNTA 1:** O que é overfitting?  
-**COMO RESPONDER:** Explique que é quando o modelo aprende demais os dados de treino e perde capacidade de generalização.  
-
-**PERGUNTA 2:** Qual a diferença entre regressão e classificação?  
-**COMO RESPONDER:** Regressão prevê valores contínuos, classificação prevê categorias.  
-
-**PERGUNTA 3:** O que é normalização de dados?  
-**COMO RESPONDER:** Ajustar escala dos dados para melhorar performance dos modelos.  
-
-**PERGUNTA 4:** Cite uma biblioteca que você usaria para machine learning em Python.  
-**COMO RESPONDER:** Scikit-learn para modelos básicos ou TensorFlow/PyTorch para redes neurais.  
-
-**PERGUNTA 5:** Como você comunicaria resultados para alguém não técnico?  
-**COMO RESPONDER:** Usaria gráficos simples e linguagem clara, focando em impacto no negócio.  
+📈 **Mercado:**  
+Em crescimento acelerado, mas ainda em fase de maturação. A demanda varia bastante por região e setor, com maior concentração em empresas de tecnologia e pesquisa.  
 
 ---
 
-## 🎓 TRILHA DIO RECOMENDADA  
+════════════════════════════════════════════════════════════  
 
-**TRILHA:** Bootcamp "Geração Tech Unimed - Ciência de Dados"  
-
-**POR QUE ESSA TRILHA:**  
-Conecta diretamente com ciência de dados, machine learning e análise prática, além de oferecer projetos guiados.  
-
-**PRÓXIMOS PASSOS:**  
-1. Acesse dio.me  
-2. Busque por "Geração Tech Unimed - Ciência de Dados"  
-3. Inscreva-se gratuitamente  
-4. Siga o cronograma junto com este roadmap  
-
----
-
-✨ Seu plano está pronto!  
-
-Lembre-se: o mais importante é a **constância**, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
-
-Quer que eu detalhe mais sobre o **projeto de portfólio** ou sobre o **roteiro de entrevistas**?
+👉 Qual dessas carreiras te chamou mais atenção?
